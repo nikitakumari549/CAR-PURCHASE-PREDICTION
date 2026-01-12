@@ -59,7 +59,7 @@ The **Random Forest** model was chosen because it handles complex influences fro
 
 ## How to Access
 
-* **Google Colab Notebook:** [View the code here]([https://colab.research.google.com/drive/1oYTXs-TwBzFk6SothIvwGHc2Ku9EDrOH?usp=sharing](https://colab.research.google.com/drive/1V6xjZ2p1MYh_-DmANG4LKIK1avcn6p-3?usp=sharing)).
+* **Google Colab Notebook:** [View the code here](https://colab.research.google.com/drive/1V6xjZ2p1MYh_-DmANG4LKIK1avcn6p-3?usp=sharing).
 
 
 
